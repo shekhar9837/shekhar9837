@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Mern stack**
 
-- 👨‍💻 All of my projects are available at [https://shekhar-maurya.vercel.app/](https://shekhar-maurya.vercel.app/)
+- 👨‍💻 You can check out my Portfolio: [Link](https://shekhar-maurya.vercel.app/)
 
 - 💬 Ask me about **JavaScript, DSA, Mern**
 
