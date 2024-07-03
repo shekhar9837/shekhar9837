@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shekhar-maurya.vercel.app/](https://shekhar-maurya.vercel.app/)
 
-- 💬 Ask me about **react, DSA, typescript**
+- 💬 Ask me about **JavaScript, DSA, Mern**
 
 - 📫 How to reach me **mauryashekhar9837@gmail.com**
 
