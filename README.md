@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently working with **NEXT JS**
 
-- 👨‍💻 You can check out my [Portfolio](https://shekhar-maurya.vercel.app/)
+- 👨‍💻 You can check out my [Portfolio](https://shekharmaurya.vercel.app/)
 
-- 💬 Ask me about **JavaScript, DSA, Mern**
+- 💬 Ask me about **JavaScript, TypeScript**
 
 - 📫 How to reach me **mauryashekhar9837@gmail.com**
 
