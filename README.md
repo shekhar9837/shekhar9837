@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with **NEXT JS**
 
-- 👨‍💻 You can check out my [Portfolio](https://shekharmaurya.vercel.app/)
+- 👨‍💻 You can check out my [Portfolio](https://shekharr.vercel.app/)
 
 - 💬 Ask me about **JavaScript, TypeScript**
 
