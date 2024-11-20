@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhar1378&label=Profile%20views&color=0e75b6&style=flat" alt="shekhar1378" /> </p>
 
-- 🌱 I’m currently working with **NEXT JS**
+- 🌱 I’m currently working as an *Full stack intern*
 
 - 👨‍💻 You can check out my [Portfolio](https://shekharr.vercel.app/)
 
