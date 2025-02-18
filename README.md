@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working as an *Full stack intern*
 
-- 👨‍💻 You can check out my [Portfolio](https://shekharr.vercel.app/)
+- 👨‍💻 You can check out my [Portfolio](https://shekharcodes.tech/)
 
 - 💬 Ask me about **JavaScript, TypeScript**
 
