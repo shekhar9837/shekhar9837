@@ -3,18 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhar1378&label=Profile%20views&color=0e75b6&style=flat" alt="shekhar1378" /> </p>
 
-- 🌱 I’m currently working as an *Full stack intern*
+- 🌱 I’m currently looking for *Full stack developer role*
 
 - 👨‍💻 You can check out my [Portfolio](https://www.shekharcodes.tech/)
 
 - 💬 Ask me about **JavaScript, TypeScript**
 
-- 📫 How to reach me **mauryashekhar9837@gmail.com**
+- 📫 How to reach me **shekharcodes98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shekhar9837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shekhar9837" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandrasm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrasm1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shekhar9837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrasm1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
