@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently looking for *Full stack developer role*
 
-- 👨‍💻 You can check out my [Portfolio](https://www.shekharcodes.tech/)
-
 - 💬 Ask me about **JavaScript, TypeScript**
 
 - 📫 How to reach me **shekharcodes98@gmail.com**
