@@ -1,5 +1,5 @@
 <h1 align="start">👋 Hey, I'm Shekhar</h1>
-<h3 align="start">19 • Full-Stack Engineer • 日本語 / ENG</h3>
+<h3 align="start">19 • Full-Stack Engineer</h3>
 
 <p align="start">
 I'm a software engineer who loves building web apps.  
